@@ -7,4 +7,4 @@ Para hacer uso del micro proyecto forkear el repositorio y ejecutar los siguient
 `php artisan migrate`
 `php artisan db:seed`
 `php artisan serve`
-5. probar
+5. todas las peticiones se hacen a localhost/api/users para los usuarios y localhost/api/profiles para los 4 perdiles
